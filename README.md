@@ -25,5 +25,5 @@ An interactive AI-powered FAQ Chatbot built with **Python**, **NLTK**, **Scikit-
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/CodeAlpha_Task_02_FAQ_Chatbot.git](https://github.com/YOUR_USERNAME/CodeAlpha_Task_02_FAQ_Chatbot.git)
+   git clone [https://github.com/mhm5430/CodeAlpha_Task_02_FAQ_Chatbot.git](https://github.com/mhm5430/CodeAlpha_Task_02_FAQ_Chatbot.git)
    cd CodeAlpha_Task_02_FAQ_Chatbot
